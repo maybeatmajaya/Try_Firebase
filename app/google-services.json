@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "698766686268",
+    "firebase_url": "https://mbuh-3e80e-default-rtdb.firebaseio.com",
+    "project_id": "mbuh-3e80e",
+    "storage_bucket": "mbuh-3e80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698766686268:android:44116d4b1709b3b21e2b39",
+        "android_client_info": {
+          "package_name": "com.example.mbuh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofwQFMOE-U5OP_XqrGT6AKRJXVbNrotw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
